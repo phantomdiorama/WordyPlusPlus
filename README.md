@@ -12,11 +12,11 @@ In other words vim-wordy uses a bunch of wordlists to flag various issues in you
 
 Wordy++ uses the following wordlists for vim-wordy:
 
-* passive voice
-* redundant terms
-* said-synonyms
-* weak language 
-* weasel words 
+* passive voice (blue)
+* redundant terms (red)
+* said-synonyms (green)
+* weak language (yellow)
+* weasel words (orange)
 
 ### Install
 Language > Define your language > Import
