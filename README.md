@@ -10,7 +10,7 @@ In other words vim-wordy uses a bunch of wordlists to flag various issues in you
 
 **Wordy++** implements the most useful of these lists (imho) in Notepad++ via a user defined language (highlighter)
 
-Wordy++ uses the following wordlists for vim-wordy:
+**Wordy++** uses the following wordlists from vim-wordy:
 
 * passive voice (blue)
 * redundant terms (red)
