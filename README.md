@@ -1,5 +1,5 @@
 # Wordy++
-A sort-of syntax highlighter for Notepad++ based on vim-wordy. 
+A sort-of syntax highlighter for Notepad++ based on Reedes' vim-wordy. 
 
 ### History
 [vim-wordy](https://github.com/reedes/vim-wordy) is a vim plugin that:
