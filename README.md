@@ -16,6 +16,9 @@ Wordy++ uses the following wordlists from vim-wordy:
 * weak language (yellow)
 * weasel words (orange)
 
+### Requirements
+* Notepad++
+
 ### Install
 Language > Define your language > Import
 
@@ -33,3 +36,6 @@ Language > Define your language > Import
 * [proselint](https://github.com/amperser/proselint)
 * [Vale](https://github.com/ValeLint/vale)
 * [Elements of Style ](http://www.bartleby.com/141/strunk1.html) (book)
+
+### Tested On
+Windows 7 32bit and AutoHotKey 1.1.22.07
