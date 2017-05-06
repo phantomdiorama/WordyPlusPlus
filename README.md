@@ -38,4 +38,4 @@ Language > Define your language > Import
 * [Elements of Style ](http://www.bartleby.com/141/strunk1.html) (book)
 
 ### Tested On
-Windows 7 32bit and AutoHotKey 1.1.22.07
+Windows 7 32bit and Notepad++ 7.3.3
